@@ -1,7 +1,7 @@
 <div align="center">
 <h1>Heyho! 🗿</h1>
 My name is <b>Jonas</b>! I'm a XR Developer from Germany.<br>
-✨I strive to create accessible immersive tools for everyone to use!✨
+✨I strive to create minimalistic yet effective tools that allow creative minds to immerse themselves in their work.!✨
 </div>
 <p><br></p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=j0nes-L&layout=compact&theme=dark&card_width=500"align="right">
@@ -12,8 +12,10 @@ My name is <b>Jonas</b>! I'm a XR Developer from Germany.<br>
 <img src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white"/>
 <img src="https://img.shields.io/badge/Blender-%23F5792A.svg?logo=blender&logoColor=white"/>
 <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visualstudio&logoColor=white"/><br>
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff"/>
+<img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff"/>
+
 </p>
 
 💻 &nbsp;Connect with me or view my projects:<br>
