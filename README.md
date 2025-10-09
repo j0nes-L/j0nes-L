@@ -10,6 +10,11 @@ My name is <b>Jonas</b>! I'm a XR Developer from Germany.<br>
   </a>
 </p>
 
+<p align="left">
+  <a href="https://j0nes-l.github.io/moxr/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/j0nes-l/moxr/main/assets/MOXRLogo.svg" alt="Mind-Objects XR Website" height="30" width="40" />
+  </a>
+</p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=j0nes-L&layout=compact&theme=dark">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=j0nes-L&layout=compact&theme=default">
