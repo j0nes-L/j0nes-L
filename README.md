@@ -4,7 +4,7 @@ My name is <b>Jonas</b>! I'm a XR Developer from Germany.<br>
 ✨I strive to create minimalistic yet effective tools that allow creative minds to immerse themselves in their work!✨
 </div>
 <p><br></p>
-<img src="https://github-readme-stats-beta-green-16.vercel.app/api/top-langs/?username=j0nes-L&exclude_repo=github-readme-stats&langs_count=8&hide=shaderlab,hlsl&layout=compact&theme=dark&card_width=485"align="right">
+<img src="https://github-readme-stats-beta-green-16.vercel.app/api/top-langs/?username=j0nes-L&exclude_repo=github-readme-stats&langs_count=8&hide=shaderlab,hlsl,mathematica&layout=compact&theme=dark&card_width=485"align="right">
 
 ⌨️ &nbsp;My Tech Stack:<br>
 <p align="left">
