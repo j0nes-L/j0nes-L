@@ -12,9 +12,10 @@ My name is <b>Jonas</b>! I'm a XR Developer from Germany.<br>
 <img src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white"/>
 <img src="https://img.shields.io/badge/Blender-%23F5792A.svg?logo=blender&logoColor=white"/>
 <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visualstudio&logoColor=white"/><br>
-<img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=fff"/> 
+<img src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square"/>
 <img src="https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff"/>
-<img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Webstorm-333333?style=flat&logo=webstorm"/> 
 </p>
 
 💻 &nbsp;Connect with me or view my projects:<br>
