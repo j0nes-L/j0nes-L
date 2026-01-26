@@ -22,5 +22,5 @@ My name is <b>Jonas</b>! I'm a XR Developer from Germany.<br>
 <p align="left">
 <a href="https://j0nes-l.github.io/"><img src="https://raw.githubusercontent.com/j0nes-L/j0nes-L/refs/heads/main/assets/Portfolio_Chip.svg" height="20px"></a>
 <a href="https://www.linkedin.com/in/jonas-ludorf/?locale=en_US"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"/></a>
-<a href="https://j0nes-l.github.io/moxr/"><img src="https://raw.githubusercontent.com/j0nes-L/j0nes-L/refs/heads/main/assets/MOXR_Chip.svg" height="20px"></a>
+<!--<a href="https://j0nes-l.github.io/moxr/"><img src="https://raw.githubusercontent.com/j0nes-L/j0nes-L/refs/heads/main/assets/MOXR_Chip.svg" height="20px"></a>-->
 </p>
