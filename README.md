@@ -1,8 +1,7 @@
 <div align="center">
 <h1>Heyho! 🗿</h1>
 My name is <b>Jonas</b>! I'm a XR Developer from Germany.<br>
-I engineer high-performance Unity experiences,
-focusing on intuitive, zero-friction design.<br>
+I love to develop efficient spatial experiences.<br>
 </div>
 <p><br></p>
 <img src="https://github-readme-stats-beta-green-16.vercel.app/api/top-langs/?username=j0nes-L&exclude_repo=github-readme-stats&langs_count=6&hide=shaderlab,hlsl,mathematica&layout=compact&theme=dark&card_width=485"align="right">
